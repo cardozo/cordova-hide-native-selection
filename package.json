@@ -1,6 +1,6 @@
 {
-  "name": "cordova-hide-native-selection-menu",
-  "version": "0.3.2",
+  "name": "cordova-ionic-hide-selection-menu",
+  "version": "1.0.0",
   "description": "Cordova plugin to hide native selection menu",
   "cordova": {
     "id": "com.wstorm.selectionplugin",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WBlackstorm/cordova-hide-native-selection-menu.git"
+    "url": "git+https://github.com/cardozo/cordova-ionic-hide-selection-menu"
   },
   "keywords": [
     "cordova",
@@ -26,10 +26,10 @@
       "version": ">=3.4.0"
     }
   ],
-  "author": "Weverton Peron",
+  "author": "Weverton Peron / Cardozo",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/WBlackstorm/cordova-hide-native-selection-menu/issues"
+    "url": "https://github.com/cardozo/cordova-ionic-hide-selection-menu/issues"
   },
-  "homepage": "https://github.com/WBlackstorm/cordova-hide-native-selection-menu#readme"
+  "homepage": "https://github.com/cardozo/cordova-ionic-hide-selection-menu#readme"
 }
